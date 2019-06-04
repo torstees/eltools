@@ -3,6 +3,8 @@ Edwards Lab Tools
 
 Just some scripts and supporting functions requested by various lab members
 
+These are written explicitly for Python 3.
+
 ## Tools
 Some basic tools requested by various lab members.
 
