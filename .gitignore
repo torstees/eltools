@@ -1,5 +1,11 @@
 
+# Some Mac Junk
+.DS_Store
+
+# Some Python stuff
 *.pyc
 __pycache__
 *.egg-info
+
+# Text Editor
 *.bbprojectd
