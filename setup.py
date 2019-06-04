@@ -9,6 +9,7 @@ setup(name='eltools',
     packages=['elab'],
     entry_points={
         'console_scripts': [
-            'mxcovar = elab.tools.mxcovar:main'
+            'mxcovar = elab.tools.mxcovar:main',
+            'pseudo_parallel = elab.tools.pseudo_parallel:main'
         ]}
 )
